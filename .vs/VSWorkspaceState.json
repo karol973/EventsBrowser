@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EventsBrowser",
+    "\\EventsBrowser\\EventsBrowser",
+    "\\EventsBrowser\\EventsBrowser\\Controllers",
+    "\\EventsBrowser\\EventsBrowser\\Data",
+    "\\EventsBrowser\\EventsBrowser\\Data\\Services",
+    "\\EventsBrowser\\EventsBrowser\\Models"
+  ],
+  "SelectedNode": "\\EventsBrowser\\EventsBrowser.sln",
+  "PreviewInSolutionExplorer": false
+}
