@@ -11,7 +11,7 @@ namespace EventsBrowser.Controllers
          
         public class EventsController : Controller
     {
-        private readonly AppDbContext _context; // wysyłanie lub odbieranie danych z bazy
+        private readonly AppDbContext _context; 
         public EventsController(AppDbContext context)
         {
             _context = context;
